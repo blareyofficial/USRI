@@ -48,6 +48,20 @@ Foreign communications language.
 
 ---
 
+## 🎶 National Anthem
+
+You can access the USRI national anthem
+
+[Here](https://drive.google.com/file/d/1U0PhGkkuMnp9TMoIMqjNWs9P5T84gkOe/view "USRI National Anthem")
+
+This National Anthem includes these languages:
+
+#### Spanish
+
+#### English
+
+---
+
 ## 🏴 National Identity
 
 The USRI stands for:
