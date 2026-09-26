@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 700" role="img" aria-labelledby="t d">
+<title id="t">Coat of arms of Interland</title><desc id="d">Gold wheat wreath surrounding a red shield with a gold star and hammer and sickle, with an Interland banner.</desc>
+<defs><linearGradient id="g" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#ffd62d"/><stop offset="1" stop-color="#d69e00"/></linearGradient></defs>
+<g stroke="#4c2800" stroke-width="5" stroke-linejoin="round">
+<path d="M90 440 C35 335 45 185 145 80 C195 28 250 18 300 18 C350 18 405 28 455 80 C555 185 565 335 510 440 L470 420 C505 325 500 210 420 120 C385 82 345 65 300 65 C255 65 215 82 180 120 C100 210 95 325 130 420 Z" fill="url(#g)"/>
+<g fill="#f7c814" stroke-width="3">
+<path d="M112 360 C72 285 90 190 150 120 l20 15 c-43 65-48 145-15 210z"/>
+<path d="M488 360 C528 285 510 190 450 120 l-20 15 c43 65 48 145 15 210z"/>
+</g>
+<circle cx="300" cy="315" r="150" fill="#d9081d"/>
+<path d="M300 185 l18 53 h56 l-45 33 17 54 -46-32 -46 32 17-54 -45-33 h56z" fill="#f8cf21" stroke="none"/>
+<g fill="none" stroke="#f8cf21" stroke-width="16" stroke-linecap="round">
+<path d="M230 335 L335 230"/>
+<path d="M248 350 L225 327"/>
+<path d="M275 305 L242 338"/>
+<path d="M313 252 L288 227"/>
+<path d="M330 270 L365 305"/>
+</g>
+<path d="M220 350 Q300 410 380 350" fill="none" stroke="#f8cf21" stroke-width="12"/>
+<path d="M70 420 Q300 500 530 420 L505 500 Q300 555 95 500 Z" fill="#d9081d"/>
+<path d="M110 458 Q300 515 490 458" fill="none" stroke="#f8cf21" stroke-width="7"/>
+<path d="M130 515 Q300 555 470 515 L430 585 Q300 620 170 585 Z" fill="#d9081d"/>
+<text x="300" y="545" text-anchor="middle" fill="#f8cf21" stroke="none" font-family="Georgia,serif" font-size="31" font-weight="700">INTERLAND</text>
+</g></svg>
