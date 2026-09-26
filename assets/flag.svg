@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+<title id="t">Flag of Interland</title><desc id="d">Vertical red, gold and blue fields with the Interland emblem.</desc>
+<rect width="400" height="600" fill="#d9081d"/><rect x="400" width="400" height="600" fill="#f2bd00"/><rect x="800" width="400" height="600" fill="#073b93"/>
+<g transform="translate(600 320)" fill="none" stroke="#f8cf21" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<path d="M-210 150 Q-155 40 0 18 Q155 40 210 150"/>
+<path d="M-205 135 Q-175 80-140 50 M-155 145 Q-120 88-90 62 M-105 152 Q-72 100-45 75"/>
+<path d="M205 135 Q175 80 140 50 M155 145 Q120 88 90 62 M105 152 Q72 100 45 75"/>
+<circle cx="0" cy="0" r="100" fill="#d9081d"/>
+<path d="M-50 28 L35 -55 M-40 38 L-68 10 M-15 5 L-55 45 M25 -45 L-5 -75 M30 -20 L75 25"/>
+<path d="M-55 45 L-30 45 L-8 18"/>
+<path d="M0-80 L12-45 L48-45 L19-23 L29 12 L0-9 L-29 12 L-19-23 L-48-45 L-12-45 Z" fill="#f8cf21" stroke="none"/>
+<path d="M-135 150 Q0 215 135 150" stroke-width="12"/>
+</g>
+</svg>
